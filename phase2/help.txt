@@ -1,0 +1,18 @@
+To run Tagger, open a terminal change working directories to /group_0556/phase2/src. Once you have navigated to the
+specified directory enter the following into the terminal to compile Tagger:
+
+        javac View/Run.java
+
+Once compiled, to run the program enter:
+
+        java View.Run
+
+This will open a prompt asking you whether you would like open Graphical User Interface. To use the GUI enter 'Y',
+otherwise you will be able to navigate the program on your terminal. In the terminal you may type '-h' at any time
+to view the help menu.
+
+In the GUI, first click "Load Folder" to load a tree view display of the selected directory on the left side of the interface.
+Click on an image to see its details and operations in the centre. In centre pane, the first list view shows the tags that the image has.
+Click on a tag to select it and see the images that has that tag.
+To open image in another program, click the "Open Image" button.
+To terminate the interface, close all windows of the interface.

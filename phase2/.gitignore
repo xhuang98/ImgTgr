@@ -1,0 +1,13 @@
+out/
+.idea/
+../save.ser
+.idea/
+../phase1/*
+phase2.iml
+src/View/*.class
+src/Model/*.class
+src/Control/*.class
+../out/
+../.idea/
+save.ser
+History.log
